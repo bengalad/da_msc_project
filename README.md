@@ -33,10 +33,43 @@ Scikit-learn
 
 Numpy
 
-Matplotlib (for plotting results)
+Pandas
+
+Seaborn
+
+Matplotlib
 
 Tabulate (for printing results)
 
 Tqdm (for progress bars)
 
 ## Bitcoin Price predictor
+### Instructions
+Install required packages (Conda environment recommended)
+
+Set data_dir in the notebook to appropriate directory
+
+Will also need to set location to save pickle file of trained model
+
+Add all required files into this directory
+
+### Required Files
+Bitcoin_tweets.csv, from https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets?select=Bitcoin_tweets.csv
+
+BTC-USD.csv, from https://www.kaggle.com/datasets/arslanr369/bitcoin-price-2014-2023
+
+The preprocessed data can be found: TBC
+
+### Required Packages
+Tensorflow
+
+NLTK
+
+Numpy
+
+Pandas
+
+Seaborn
+
+Matplotlib
+
